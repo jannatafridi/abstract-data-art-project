@@ -1,4 +1,3 @@
-# abstract-data-art-project
 # Unit 4 - Abstract Art Project
 
 ## Introduction
