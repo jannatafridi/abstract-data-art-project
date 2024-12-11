@@ -31,7 +31,7 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 ## Video Demo
 
 
-[![Thumbnail for my project](https://drive.google.com/file/d/1P-ry3M1Ixq76pmLaCFHyIU5Lvf_ukMt9/view?usp=sharing)](https://youtu.be/VGnQeiNPvtU)
+![Thumbnail for my project](https://drive.google.com/file/d/1P-ry3M1Ixq76pmLaCFHyIU5Lvf_ukMt9/view?usp=sharing) (https://youtu.be/VGnQeiNPvtU)
 
 ## Description
 
